@@ -1,0 +1,1 @@
+250k_rndm_zinc_drugs_clean_3.csv  aqsol_llinas_train.csv  bace.csv  BBBP.csv  clintox.csv  DataWarrior.csv  delaney-processed.csv  hiv.csv  Lipophilicity.csv  llinas2020_set1_test.csv  llinas2020_set2_test.csv  SAMPL.csv  sider.csv  tox21.csv
